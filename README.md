@@ -1,2 +1,5 @@
 # zabbix-themes
-Theme for Zabbix 6.0
+Themes for Zabbix 6.0
+
+1. Grey Theme
+
